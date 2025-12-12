@@ -23,7 +23,7 @@ import FilterScreen from "./screens/FilterScreen";
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
  
-
+//Menu items
 const predefined: CafeItem[] = [
 
     {
