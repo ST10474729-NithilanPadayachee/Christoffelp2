@@ -52,7 +52,7 @@ const predefined: CafeItem[] = [
 
         itemName: "Citrus Mango",
 
-        description: "A fresh citrus drink with a mango twist.",
+        description: "A fresh orange drink with a mango surprise.",
 
         category: "Beverage",
 
