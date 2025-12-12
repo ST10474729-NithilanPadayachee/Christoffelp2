@@ -1,7 +1,7 @@
 Christoffel P2 - Christoffel App with Barsita Bliss Menu
 Project Overview
-Barista Bliss is a React Native mobile application for managing a cafe menu system. Built with TypeScript and React Navigation, the app allows users to browse menu items, add new items, filter selections, and view category averages.
-Technology Stack
+Barista Bliss is a React Native mobile application for managing a restuarant menu system. Built with TypeScript and React Navigation, the app allows users to browse menu items, add new items, filter selections, and view category averages.
+
 
 React Native
 TypeScript
